@@ -5,8 +5,3 @@
 2. CSS alapok
 
 3. Bootstrap
-
-
-| a | b |
-| - | - |
-| c | d |
